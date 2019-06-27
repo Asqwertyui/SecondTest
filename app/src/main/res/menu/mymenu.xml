@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/item" android:title="首页"/>
+    <group android:id="@+id/info">
+        <item android:id="@+id/item1" android:title="干活" android:icon="@drawable/lib_icon_tab2_selected"/>
+        <item android:id="@+id/item2" android:title="收藏" android:icon="@drawable/lib_icon_tab3_selected"/>
+        <item android:id="@+id/item3" android:title="设置" android:icon="@drawable/lib_icon_tab4_selected"/>
+        <item android:id="@+id/item4" android:title="我爱安卓" android:icon="@drawable/lib_icon_tab1_selected"/>
+    </group>
+</menu>

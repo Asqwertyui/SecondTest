@@ -31,7 +31,7 @@ public class RclMyadapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> 
         mList = list;
         this.context = context;
     }
-
+//阿斯顿法国红酒
     @NonNull
     @Override
     public RecyclerView.ViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
